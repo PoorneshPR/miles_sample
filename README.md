@@ -7,7 +7,8 @@ Miles Flutter project.
 
 ## Overview
 
-This repository contains the code for the **Miles Flutter Developer Assessment**. The app showcases various features such as data integration, YouTube video integration, pull-to-refresh functionality, bottom sheet implementation, and testimonials section, following the instructions and design from the provided Figma file.
+This repository contains the code for the **Miles Flutter Developer Assessment**. The app showcases various features such as data integration, YouTube video integration, pull-to-refresh functionality, bottom sheet implementation, and testimonials section, 
+following the instructions and design from the provided Figma file.
 
 ## Tasks Completed
 
@@ -39,12 +40,13 @@ This repository contains the code for the **Miles Flutter Developer Assessment**
 ### 8. **Testimonials Section**
 - Integrated a testimonials section using a separate JSON file, replicating the Story Layout as shown in the screen recording.
 
-### 9. **State Management**
-- Used **GetX** for state management across all features, ensuring a responsive and scalable architecture.
+
 
 - 
 - 
 ### Testmonials and  reels have integrated in youtube player as story mode
+### the json files for thanks to reach out
+### is not available  so implemented a common one for the show casing the place holder value.
 
 
 
