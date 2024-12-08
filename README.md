@@ -44,7 +44,7 @@ This repository contains the code for the **Miles Flutter Developer Assessment**
 
 - 
 - 
-### Testmonials and reels have integrated in youtube player as story mode
+### Testmonials and  reels have integrated in youtube player as story mode
 
 
 
