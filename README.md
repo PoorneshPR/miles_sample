@@ -51,5 +51,5 @@ This repository contains the code for the **Miles Flutter Developer Assessment**
 1. **IDE**: IDE is Android Studio  Flutter plugin installed.
 2. state management - provider with features.
 3. the json files for thanks to reach out 
-is not available so implemented a common one for the show casing the place holder value.
+is not available  so implemented a common one for the show casing the place holder value.
 
